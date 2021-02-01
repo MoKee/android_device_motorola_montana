@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_montana.mk
+    $(LOCAL_DIR)/mokee_montana.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_montana-user \
-    lineage_montana-userdebug \
-    lineage_montana-eng
+    mokee_montana-user \
+    mokee_montana-userdebug \
+    mokee_montana-eng
